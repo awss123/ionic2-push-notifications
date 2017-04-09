@@ -8,10 +8,10 @@ import { MyApp } from './app.component';
 import { HomePage } from '../pages/home/home';
 const cloudSettings: CloudSettings = {
   'core': {
-    'app_id': '4f90f0d1',
+    'app_id': 'your_Ionic_AppID',
   },
   'push': {
-    'sender_id': '192500780856',
+    'sender_id': 'YOUR_SENDER_ID',
     'pluginConfig': {
       'ios': {
         'badge': true,
